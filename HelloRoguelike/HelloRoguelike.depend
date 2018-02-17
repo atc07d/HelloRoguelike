@@ -1,0 +1,154 @@
+# depslib dependency file v1.0
+1518821006 source:/home/adamdesk/CodeblocksProjects/HelloRoguelike/main.cpp
+	"include/libtcod.hpp"
+
+1346276536 /home/adamdesk/CodeblocksProjects/HelloRoguelike/include/libtcod.hpp
+	"libtcod.h"
+	"list.hpp"
+	"color.hpp"
+	"console.hpp"
+	"image.hpp"
+	"sys.hpp"
+	"mersenne.hpp"
+	"mouse.hpp"
+	"bresenham.hpp"
+	"noise.hpp"
+	"fov.hpp"
+	"path.hpp"
+	"lex.hpp"
+	"parser.hpp"
+	"tree.hpp"
+	"bsp.hpp"
+	"heightmap.hpp"
+	"zip.hpp"
+	"namegen.hpp"
+	"txtfield.hpp"
+
+1346276536 /home/adamdesk/CodeblocksProjects/HelloRoguelike/include/libtcod.h
+	<wchar.h>
+	"SDL/SDL.h"
+	"list.h"
+	"color.h"
+	"console.h"
+	"image.h"
+	"mouse.h"
+	"sys.h"
+	"mersenne.h"
+	"bresenham.h"
+	"noise.h"
+	"fov.h"
+	"path.h"
+	"lex.h"
+	"parser.h"
+	"tree.h"
+	"bsp.h"
+	"heightmap.h"
+	"zip.h"
+	"namegen.h"
+	"txtfield.h"
+
+1346276536 /home/adamdesk/CodeblocksProjects/HelloRoguelike/include/list.h
+
+1346276536 /home/adamdesk/CodeblocksProjects/HelloRoguelike/include/color.h
+
+1346276536 /home/adamdesk/CodeblocksProjects/HelloRoguelike/include/console.h
+	"console_types.h"
+
+1346276536 /home/adamdesk/CodeblocksProjects/HelloRoguelike/include/console_types.h
+
+1346276536 /home/adamdesk/CodeblocksProjects/HelloRoguelike/include/image.h
+
+1346276536 /home/adamdesk/CodeblocksProjects/HelloRoguelike/include/mouse.h
+	"mouse_types.h"
+
+1346276536 /home/adamdesk/CodeblocksProjects/HelloRoguelike/include/mouse_types.h
+
+1346276536 /home/adamdesk/CodeblocksProjects/HelloRoguelike/include/sys.h
+
+1346276536 /home/adamdesk/CodeblocksProjects/HelloRoguelike/include/mersenne.h
+	"mersenne_types.h"
+
+1346276536 /home/adamdesk/CodeblocksProjects/HelloRoguelike/include/mersenne_types.h
+
+1346276536 /home/adamdesk/CodeblocksProjects/HelloRoguelike/include/bresenham.h
+
+1346276536 /home/adamdesk/CodeblocksProjects/HelloRoguelike/include/noise.h
+	"noise_defaults.h"
+
+1346276536 /home/adamdesk/CodeblocksProjects/HelloRoguelike/include/noise_defaults.h
+
+1346276536 /home/adamdesk/CodeblocksProjects/HelloRoguelike/include/fov.h
+	"fov_types.h"
+
+1346276536 /home/adamdesk/CodeblocksProjects/HelloRoguelike/include/fov_types.h
+
+1346276536 /home/adamdesk/CodeblocksProjects/HelloRoguelike/include/path.h
+
+1346276536 /home/adamdesk/CodeblocksProjects/HelloRoguelike/include/lex.h
+
+1346276536 /home/adamdesk/CodeblocksProjects/HelloRoguelike/include/parser.h
+
+1346276536 /home/adamdesk/CodeblocksProjects/HelloRoguelike/include/tree.h
+
+1346276536 /home/adamdesk/CodeblocksProjects/HelloRoguelike/include/bsp.h
+
+1346276536 /home/adamdesk/CodeblocksProjects/HelloRoguelike/include/heightmap.h
+
+1346276536 /home/adamdesk/CodeblocksProjects/HelloRoguelike/include/zip.h
+
+1346276536 /home/adamdesk/CodeblocksProjects/HelloRoguelike/include/namegen.h
+
+1346276536 /home/adamdesk/CodeblocksProjects/HelloRoguelike/include/txtfield.h
+
+1346276536 /home/adamdesk/CodeblocksProjects/HelloRoguelike/include/list.hpp
+	<string.h>
+	<stdlib.h>
+
+1346276536 /home/adamdesk/CodeblocksProjects/HelloRoguelike/include/color.hpp
+
+1346276536 /home/adamdesk/CodeblocksProjects/HelloRoguelike/include/console.hpp
+	"console_types.h"
+
+1346276536 /home/adamdesk/CodeblocksProjects/HelloRoguelike/include/image.hpp
+
+1346276536 /home/adamdesk/CodeblocksProjects/HelloRoguelike/include/sys.hpp
+
+1346276536 /home/adamdesk/CodeblocksProjects/HelloRoguelike/include/mersenne.hpp
+	"mersenne_types.h"
+
+1346276536 /home/adamdesk/CodeblocksProjects/HelloRoguelike/include/mouse.hpp
+	"mouse_types.h"
+
+1346276536 /home/adamdesk/CodeblocksProjects/HelloRoguelike/include/bresenham.hpp
+
+1346276536 /home/adamdesk/CodeblocksProjects/HelloRoguelike/include/noise.hpp
+	"noise_defaults.h"
+
+1346276536 /home/adamdesk/CodeblocksProjects/HelloRoguelike/include/fov.hpp
+	"fov_types.h"
+
+1346276536 /home/adamdesk/CodeblocksProjects/HelloRoguelike/include/path.hpp
+
+1346276536 /home/adamdesk/CodeblocksProjects/HelloRoguelike/include/lex.hpp
+
+1346276536 /home/adamdesk/CodeblocksProjects/HelloRoguelike/include/parser.hpp
+
+1346276536 /home/adamdesk/CodeblocksProjects/HelloRoguelike/include/tree.hpp
+
+1346276536 /home/adamdesk/CodeblocksProjects/HelloRoguelike/include/bsp.hpp
+
+1346276536 /home/adamdesk/CodeblocksProjects/HelloRoguelike/include/heightmap.hpp
+
+1346276536 /home/adamdesk/CodeblocksProjects/HelloRoguelike/include/zip.hpp
+
+1346276536 /home/adamdesk/CodeblocksProjects/HelloRoguelike/include/namegen.hpp
+
+1346276536 /home/adamdesk/CodeblocksProjects/HelloRoguelike/include/txtfield.hpp
+	"color.hpp"
+
+1518822925 source:/home/adamdesk/CodeblocksProjects/HelloRoguelike/Actor.cpp
+	"include/libtcod.hpp"
+	"Actor.hpp"
+
+1518823672 /home/adamdesk/CodeblocksProjects/HelloRoguelike/Actor.hpp
+
